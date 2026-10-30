@@ -1,6 +1,6 @@
 {
     "name": "angular-project",
-    "varsion": "1.0.0",
+    "version": "1.0.0",
     "scripts":{
         "start": "webpack-dev-server --mode development --open"
     },
